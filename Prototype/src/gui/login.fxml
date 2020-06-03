@@ -18,7 +18,7 @@
       <TextField layoutX="26.0" layoutY="73.0" fx:id="idtxt" />
       <Button layoutX="175.0" layoutY="256.0" fx:id="btnSend" mnemonicParsing="false" onAction="#Send" text="LogIn" />
       <Button layoutX="352.0" layoutY="256.0" fx:id="btnExit" mnemonicParsing="false" onAction="#getExitBtn" text="Exit" />
-      <Label layoutX="26.0" layoutY="55.0" text="Employee ID:" />
+      <Label layoutX="26.0" layoutY="55.0" text="Employeeeeeeeeeeeeee ID:" />
       <Label layoutX="26.0" layoutY="129.0" text="Password:" />
       <PasswordField layoutX="26.0" layoutY="147.0" fx:id="passtxt"/>
    </children>
